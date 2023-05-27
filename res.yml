@@ -1,0 +1,128 @@
+respuestas:
+  - pregunta: "hola"
+    response:
+      - "Hola! En qué puedo ayudarte?"
+      - "Hola, en qué puedo colaborar?"
+      - "Saludos, cómo puedo asistirte?"
+
+  - pregunta: "adiós"
+    response:
+      - "¡Hasta luego!"
+      - "Adiós, que tengas un buen día."
+      - "Nos vemos pronto."
+
+  - pregunta: "adios"
+    response:
+      - "¡Hasta luego!"
+      - "Adiós, que tengas un buen día."
+      - "Nos vemos pronto."
+
+  - pregunta: "gracias"
+    response:
+      - "Es un gusto atenderte, espero haberte ayudado"
+      - "A usted gracias, espero te guste"
+      - "A usted gracias, Rapid Food deleite en cada bocado"
+
+  - pregunta: "pedido"
+    response:
+      - "Con gusto atendere, inicia la instruccion pedido para empezar"
+      - "Selecciona el comando pedido para comenzar"
+
+  - pregunta: "papas rapid"
+    response:
+      - "Son papas en queso fundido, trozos de pollo y chile jalapeño"
+      - "Una deliciosa combinacion de papas en queso fundido, con trozos de pollo y chile jalapeño"
+
+  - pregunta: "salchipapa"
+    response:
+      - "Son papas bañadas en salsa chipotle"
+      - "Deliciosas papas bañadas en salsa chipotle"
+
+  - pregunta: "locas"
+    response:
+      - "Son papas con tomte picado y aderezo de la casa con guacamoles"
+      - "Exquisitas papas con tomate, aderezo y guacamole"
+
+  - pregunta: "nachos"
+    response:
+      - "Los nachos vienen acompañados en salsa de carne y queso fundido"
+      - "Nachos bañados en salsa de carne y guacamole"
+
+  - pregunta: "hamburguesa"
+    response:
+      - "tenemos variedad de hamburguesas para complacer tu paladar"
+      - "contamos con distintos tipos de hamburguesa para tu paladar"
+
+  - pregunta: "papas fritas"
+    response:
+      - "tenemos variedad de papas fritas para complacer tu paladar"
+      - "contamos con distintos tipos de papas para tu paladar"
+
+  - pregunta: "clasica"
+    response:
+      - "la hamburguesa clasica de simepre con carne, queso, tomate,lechuga,aderezo"
+      - "deliciosa hamburguesa con carne, queso, tomate,repollo,aderezo"
+
+  - pregunta: "con papas"
+    response:
+      - "la clasica agregado una porcion de papas"
+      - "porcion de papas agregadas"
+
+  - pregunta: "good burguer"
+    response:
+      - "deliciosa hamburguesa con /n Aderezo de la casa /n triple torta de carne /n lechuga"
+      - "Una deliciosas hamburguesa con triple carne, adrezo y lechuga"
+
+  - pregunta: "bebidas"
+    response:
+      - "contamos con gaseosas y refresco natural"
+      - "Para acompañar tus comidas contamos con refresco natural"
+
+  - pregunta: "gaseosas"
+    response:
+      - "Acompaña tu comida con una gaseosa bien fria en Rapid Food"
+
+  - pregunta: "fresco"
+    response:
+      - "Es fresco natural de jamaica"
+
+  - pregunta: "nombre"
+    response:
+      - "Soy un asistente virtual."
+      - "Soy conocido como un Asistente Virtual."
+      - "Llamame aistente virtual."
+
+  - pregunta: "tiempo"
+    response:
+      - "Usualmente nos tardamos unos 15 a 30 minutos"
+      - "El tiempo de entrega dependera del area donde te encuentres"
+      - "Tu pedido sera atendido lo mas pronto posible"
+
+  - pregunta: "tarjeta"
+    response:
+      - "Actualmente solo puedes cancelar en efectivo"
+      - "Actualmente no puedes cancelar con tarjeta :("
+      - "Lamento comentarte que solo aceptamos efectivo"
+
+  - pregunta: "horario"
+    response:
+      - "Nuestros horarios de atencion son de 8 AM a 10 PM"
+      - "Actualmente no puedes cancelar con tarjeta :("
+      - "Lamento comentarte que solo aceptamos efectivo"
+
+  - pregunta: "horario"
+    response:
+      - "Nuestros horarios de atencion son de 8 AM a 10 PM"
+      - "Adentemos pedidos en horarios de 8 AM a 10 PM"
+
+  - pregunta: "horario"
+    response:
+      - "Nuestros horarios de atencion son de 8 AM a 10 PM"
+      - "Actualmente no puedes cancelar con tarjeta :("
+      - "Lamento comentarte que solo aceptamos efectivo"
+
+  - pregunta: "horario"
+    response:
+      - "Nuestros horarios de atencion son de 8 AM a 10 PM"
+      - "Actualmente no puedes cancelar con tarjeta :("
+      - "Lamento comentarte que solo aceptamos efectivo"
